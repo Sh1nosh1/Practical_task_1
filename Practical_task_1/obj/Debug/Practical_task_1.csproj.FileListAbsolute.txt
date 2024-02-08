@@ -1,0 +1,7 @@
+D:\215 Ovcharuk_Botnar\Practical_task_1\bin\Debug\Practical_task_1.exe.config
+D:\215 Ovcharuk_Botnar\Practical_task_1\bin\Debug\Practical_task_1.exe
+D:\215 Ovcharuk_Botnar\Practical_task_1\bin\Debug\Practical_task_1.pdb
+D:\215 Ovcharuk_Botnar\Practical_task_1\obj\Debug\Practical_task_1.csproj.AssemblyReference.cache
+D:\215 Ovcharuk_Botnar\Practical_task_1\obj\Debug\Practical_task_1.csproj.CoreCompileInputs.cache
+D:\215 Ovcharuk_Botnar\Practical_task_1\obj\Debug\Practical_task_1.exe
+D:\215 Ovcharuk_Botnar\Practical_task_1\obj\Debug\Practical_task_1.pdb
